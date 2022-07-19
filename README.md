@@ -1,7 +1,7 @@
 # hyperblog
 Un blog increíble para el curso de Platzi.
 
-Creado por el increíble Platzi Team
+Creado por el increíble Platzi Team. Incluye ejemplos.
 
 Con este curso he aprendido bastante sobre lo que es Git GitHub y su funcionamiento.
 
